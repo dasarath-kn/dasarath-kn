@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm DASARATH K N</h1>
-<h3 align="center"> MERN stack developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasarath-kn&label=Profile%20views&color=0e75b6&style=flat" alt="dasarath-kn" /> </p>
+<h3 align="center">Passionate MERN fullstack developer</h3>
 
 - 🌱 I’m currently learning **React**
 
