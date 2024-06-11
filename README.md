@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DASARATH K N</h1>
 <h3 align="center"> MERN stack developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working on a project
 
 - 👯 I’m looking to collaborate on **Open source mern projects**
 
